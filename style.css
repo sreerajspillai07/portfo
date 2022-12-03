@@ -522,6 +522,11 @@ nav ul .fa-solid{
 .contact-right{
     margin-top: 30px;
 }
+ .copyright{
+    padding-top: 80px;
+    color: #877e7e;
+    font-size: small;
+}
 }
 #msg{
     color: green;
