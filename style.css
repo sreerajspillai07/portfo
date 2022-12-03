@@ -526,6 +526,10 @@ nav ul .fa-solid{
     padding-top: 80px;
     color: #877e7e;
     font-size: small;
+    margin-bottom: -3.125rem;
+}
+    form{
+    padding-top: 40px;
 }
 }
 #msg{
